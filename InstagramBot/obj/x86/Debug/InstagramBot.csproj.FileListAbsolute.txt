@@ -1,0 +1,9 @@
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\bin\Debug\InstagramBot.exe
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\bin\Debug\InstagramBot.pdb
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.Form1.resources
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.Properties.Resources.resources
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.csproj.GenerateResource.Cache
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.exe
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.pdb
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.Form2.resources
+C:\Users\karak\Desktop\InstagramBot\InstagramBot\obj\x86\Debug\InstagramBot.csprojResolveAssemblyReference.cache
